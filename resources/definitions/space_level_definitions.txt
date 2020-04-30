@@ -1,0 +1,48 @@
+
+# Level 1
+# Abstract Space
+
+
+START_LEVEL
+level_name:Abstract Space
+ball_velocities:0,6 30,8 330,4
+background:image(background_images/space1.jpg)
+paddle_speed:13
+paddle_width:160
+block_definitions:definitions/space1_block_definitions.txt
+blocks_start_x:25
+blocks_start_y:80
+row_height:25
+num_blocks:52
+START_BLOCKS
+-
+-
+-
+-sssssssssssss--
+-sedededededes--
+-sedededededes--
+-sssssssssssss--
+END_BLOCKS
+END_LEVEL
+
+START_LEVEL
+level_name:Time Travel
+ball_velocities:0,6 30,8 330,4
+background:image(background_images/space2.jpg)
+paddle_speed:13
+paddle_width:160
+block_definitions:definitions/space2_block_definitions.txt
+blocks_start_x:25
+blocks_start_y:80
+row_height:25
+num_blocks:52
+START_BLOCKS
+-
+-
+-
+-sssssssssssss--
+-sedededededes--
+-sedededededes--
+-sssssssssssss--
+END_BLOCKS
+END_LEVEL

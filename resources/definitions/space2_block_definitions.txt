@@ -1,0 +1,10 @@
+# default values for blocks
+default height:25 width:50
+
+# block definitions
+bdef symbol:s hit_points:2 fill:image(block_images/12.png) fill-2:image(block_images/11.png)
+bdef symbol:d hit_points:1 fill:image(block_images/3.png)
+bdef symbol:e hit_points:1 fill:image(block_images/15.png)
+
+# spacers definitions
+sdef symbol:- width:50

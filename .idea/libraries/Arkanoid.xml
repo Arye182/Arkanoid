@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Arkanoid">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ass7.zip!/" />
+      <root url="jar://$PROJECT_DIR$/ass7game.jar!/" />
+      <root url="jar://$PROJECT_DIR$/biuoop-1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
